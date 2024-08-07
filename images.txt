@@ -1,4 +1,5 @@
-rabbitmq-delayed-message-exchange:3.8.3-management
+nginx:latest
+#rabbitmq-delayed-message-exchange:3.8.3-management
 #portainer/portainer-ce:sts
 #portainer/agent:2.20.3
 ##支持指定架构
