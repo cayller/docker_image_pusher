@@ -1,4 +1,4 @@
---platform linux/arm64 nats:2.10.14
+nats:2.10.14
 #rabbitmq-delayed-message-exchange:3.8.3-management
 #portainer/portainer-ce:sts
 #portainer/agent:2.20.3
