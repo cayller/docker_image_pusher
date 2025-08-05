@@ -1,4 +1,4 @@
-nats:2.10.14
+emqx/emqx-operator-controller:2.2.29
 #rabbitmq-delayed-message-exchange:3.8.3-management
 #portainer/portainer-ce:sts
 #portainer/agent:2.20.3
