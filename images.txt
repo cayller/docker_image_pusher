@@ -1,4 +1,7 @@
-grafana/loki:latest
+grafana/loki:3.4.2
+grafana/grafana:11.6.0
+grafana/alloy:v1.7.5
+#grafana/loki:latest
 #emqx/emqx:5.4.0
 #tdengine/tsdb:3.3.7.0
 #emqx/emqx:5.10.0
