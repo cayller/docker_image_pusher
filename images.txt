@@ -1,3 +1,6 @@
+postgres:16
+thingsboard/tb-node:4.2.0
+bitnamilegacy/kafka:4.0
 grafana/loki:3.5.3
 grafana/grafana:12.1.1
 grafana/alloy:v1.7.5
